@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+.title {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+}
+
+.center_text {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.flex {
+    width: 680px;
+    height: 290px;
+    display: flex;
+    justify-content: space-between;
+    margin: 63px auto
+}
+
+.type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+}
+
+.color {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #0071E3;
+}
+
+.laptop_describtion {
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.laptop_price {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+}
+
+.btn-1 {
+    background: #0071E3;
+    border-radius: 10px;
+    width: 155px;
+    height: 42px;
+    border: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    transition: 300ms;
+}
+/* .btn-1:hover{
+    background: #CFE7FF;
+    color: #797979;
+} */
+.btn-2:hover{
+    background: #0071E3;
+    color: #FFFFFF;
+}
+.btn-2 {
+    width: 155px;
+    height: 42px;
+    background: #CFE7FF;
+    border-radius: 10px;
+    border: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #797979;
+    transition: 300ms;
+}
+
+.btn_color {
+    display: flex;
+    width: 321px;
+    height: 42px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.btn-common {
+    
+    height: 57px;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 17px 20px;
+    margin-bottom: 7px;
+    border: 2px solid #CFE7FF;
+    align-items: center;
+    transition: 200ms;
+    
+}
+.btn-common:hover{
+    border: 2px solid #007FFF !important;
+
+}
+.btn-common1 {
+    border: 2px solid #007FFF !important;
+
+}
+
+.right {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 2px;
+}
+
+.btn_type {
+    width: 321px;
+    height: 250px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

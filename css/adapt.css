@@ -1,0 +1,370 @@
+@media only screen and (max-width:1000px) {
+    .center_text {
+
+        font-size: 14px;
+
+    }
+
+    .title {
+
+        font-size: 38px;
+    }
+
+    img {
+        width: 250px;
+        height: 228px;
+    }
+
+    .type {
+        font-size: 38px;
+    }
+
+    .color {
+        font-size: 15px;
+    }
+
+    .laptop_price {
+        font-size: 38px;
+    }
+
+    .flex {
+        width: 550px;
+        height: 290px;
+        display: flex;
+        justify-content: space-between;
+        margin: 63px auto
+    }
+
+    .laptop_describtion {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+}
+
+@media only screen and (max-width:775px) {
+    .center_text {
+        font-size: 10px;
+    }
+
+    .title {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 14px;
+        font-size: 28px;
+    }
+
+    img {
+        width: 200px;
+        height: 178px;
+    }
+
+    .type {
+        font-size: 28px;
+        line-height: 19px;
+    }
+
+    .color {
+        font-size: 10px;
+    }
+
+    .laptop_price {
+        font-size: 28px;
+    }
+
+    .flex {
+        width: 420px;
+        height: 180px;
+        display: flex;
+        justify-content: space-between;
+        margin: 43px auto
+    }
+
+    .laptop_describtion {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .btn-1 {
+        width: 125px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .btn-2 {
+        width: 125px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .btn_color {
+        width: 261px;
+        height: 42px;
+        justify-content: space-between;
+    }
+    .btn-common {
+        
+        height: 35px;
+        font-size: 15px;
+        line-height: 22px;
+        padding: 17px 20px;
+        margin-bottom: 6px;
+        
+    }
+    .btn_type {
+        width: 280px;
+        height: 200px;
+        margin: 30px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
+@media only screen and (max-width:550px) {
+    .center_text {
+        font-size: 8px;
+        line-height: 15px;
+    }
+
+    .title {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+
+    img {
+        width: 150px;
+        height: 128px;
+    }
+
+    .type {
+        font-size: 18px;
+        line-height: 0px;
+    }
+
+    .color {
+        font-size: 8px;
+    }
+
+    .laptop_price {
+        font-size: 18px;
+    }
+
+    .flex {
+        width: 280px;
+        height: 130px;
+        display: flex;
+        justify-content: space-between;
+        margin: 23px auto
+    }
+
+    .laptop_describtion {
+        display: flex;
+        /* height: 100px; */
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .btn-1 {
+        width: 95px;
+        height: 30px;
+        font-size: 13px;
+    }
+    .btn-2 {
+        width: 95px;
+        height: 30px;
+        font-size: 13px;
+    }
+    .btn_color {
+        width: 201px;
+        height: 22px;
+        justify-content: space-between;
+    }
+    .btn_type {
+        width: 201px;
+        height: 0px;
+        margin: 40px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .btn-common {
+        height: 27px;
+        font-size: 13px;
+        line-height: 22px;
+        padding: 16px 15px;
+       
+        
+    }
+    .right {
+        font-size: 10px;
+        line-height: 17px;
+        padding-top: 2px;
+    }
+    
+}
+@media only screen and (max-width:450px) {
+    .center_text {
+        font-size: 6px;
+        line-height: 10px;
+    }
+
+    .title {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: -10px;
+        font-size: 15px;
+    }
+
+    img {
+        width: 100px;
+        height: 78px;
+    }
+
+    .type {
+        font-size: 13px;
+        line-height: 0px;
+    }
+
+    .color {
+        font-size: 6px;
+    }
+
+    .laptop_price {
+        font-size: 13px;
+    }
+
+    .flex {
+        width: 200px;
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        margin: 23px auto
+    }
+
+    .laptop_describtion {
+        display: flex;
+        height: 110px;
+        flex-direction:column;
+        justify-content: space-evenly;
+    }
+    .btn-1 {
+        width: 75px;
+        height: 25px;
+        font-size: 10px;
+    }
+    .btn-2 {
+        width: 75px;
+        height: 25px;
+        font-size: 10px;
+    }
+    .btn_color {
+        width: 155px;
+        height: 0px;
+        justify-content: space-between;
+    }
+    .btn_type {
+        width: 151px;
+        
+        margin: 40px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .btn-common {
+        
+        font-size: 10px;
+        line-height: 22px;
+        padding: 10px 15px;
+       
+        
+    }
+    .right {
+        font-size: 7px;
+        line-height: 17px;
+        padding-top: 2px;
+    }
+    
+}
+@media only screen and (max-width:330px) {
+    .center_text {
+        font-size: 4px;
+        line-height: 5px;
+    }
+
+    .title {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: -15px;
+        font-size: 10px;
+    }
+
+    img {
+        width: 80px;
+        height: 58px;
+    }
+
+    .type {
+        font-size: 10px;
+        line-height: 0px;
+    }
+
+    .color {
+        font-size: 5px;
+        line-height: 20px;
+    }
+
+    .laptop_price {
+        font-size: 10px;
+        line-height: 19px;
+    }
+
+    .flex {
+        width: 150px;
+        height: 55px;
+        display: flex;
+        justify-content: space-between;
+        margin: 23px auto
+    }
+
+    .laptop_describtion {
+        display: flex;
+        height: 65px;
+        flex-direction:column;
+        justify-content: space-evenly;
+    }
+    .btn-1 {
+        width: 45px;
+        height: 20px;
+        font-size: 7px;
+    }
+    .btn-2 {
+        width: 45px;
+        height: 20px;
+        font-size: 7px;
+    }
+    .btn_color {
+        width: 100px;
+        justify-content: space-between;
+    }
+    .btn_type {
+        width: 101px;
+        
+        margin: 35px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .btn-common {
+        
+        font-size: 7px;
+        line-height: 10px;
+        padding: 5px 10px;
+        margin-bottom: 3px;
+        
+    }
+    .right {
+        font-size: 5px;
+        line-height: 10px;
+        padding-top: 0px;
+    }
+    
+}
